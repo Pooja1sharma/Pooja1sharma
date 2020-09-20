@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**Pooja1sharma/Pooja1sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  [[params.social]]
     icon = "linkedin"
@@ -29,5 +26,4 @@
 - 💬 Ask me about ML,NLP,softbots or data processing.
 - 📫 How to reach me on pooja026mtcse2019@igdtuw.ac.in
 - 😄 Pronouns: Give me any.
-- ⚡ Fun fact: I can work without coffee
--->
+- ⚡ Fun fact: I can work without coffee.
