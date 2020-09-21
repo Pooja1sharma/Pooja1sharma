@@ -1,6 +1,7 @@
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dwivedi-arpit/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/arpitdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
+[![linkedin](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/Graphics-Vibe-Simple-Rounded-Social-Linkedin.icon)]https://www.linkedin.com/in/pooja-sharma-406532198/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![twitter](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/twitter.png)](https://twitter.com/poojash90366231)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![mail](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/m1.png)](mailto:pooja026mtcse19@igdtuw.ac.in)
  
   
  
