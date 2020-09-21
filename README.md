@@ -1,19 +1,6 @@
 
-
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/pooja-sharma-406532198/"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/poojash90366231"
-    
- [[params.social]]
-    icon = "mail"
-    icon_pack = "fa"
-    link = "pooja026mtcse19@igdtuw.ac.in"
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dwivedi-arpit/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/arpitdw)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:8arpitdwivedi798@gmail.com)
  
   
  
