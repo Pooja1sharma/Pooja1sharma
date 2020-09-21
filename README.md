@@ -1,6 +1,6 @@
 
-[![linkedin](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/Graphics-Vibe-Simple-Rounded-Social-Linkedin.icon)]https://www.linkedin.com/in/pooja-sharma-406532198/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![twitter](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/twitter.png)](https://twitter.com/poojash90366231)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/Webp.net-resizeimage.png)]https://www.linkedin.com/in/pooja-sharma-406532198/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![twitter](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/ttt.png)](https://twitter.com/poojash90366231)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![mail](https://github.com/Pooja1sharma/Pooja1sharma/blob/master/m1.png)](mailto:pooja026mtcse19@igdtuw.ac.in)
  
   
